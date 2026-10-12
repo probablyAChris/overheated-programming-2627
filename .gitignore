@@ -1,0 +1,3 @@
+Files listed in here WILL NEVER be tracked by Git. They will kept only in your codespace and not put in the public repository
+secret.txt
+venv-chris-hall
